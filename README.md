@@ -1,5 +1,7 @@
 # nfs-underground-2-v1.2
 
+<img src="https://github.com/SoseneZalbuen/nfs-underground-2-v1.2/blob/main/nfs.png"/>
+
 ___
 
 🔥🔥🔥 ***It is recommended that you back up all game files prior to this mod's installation so you can easily go back to the vanilla/unmodified version, should you face any issues***
